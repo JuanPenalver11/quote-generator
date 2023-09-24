@@ -1,0 +1,65 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+
+    height: 100vh;
+    padding: 50px;
+    background: url(images/neom-Iy59i0M7oP4-unsplash.jpg) no-repeat center center/cover
+    
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; 
+    color: #fff;
+
+}
+
+.card{
+    font-family:sans-serif;
+    border: solid #fff 2px;
+    padding: 30px;
+    height: 500px;
+    width: 1000px;
+   
+}
+
+.title{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 100px;
+}
+
+.quote{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 60px;
+}
+
+
+.author{
+    text-align: end;
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.btn{
+   margin-top: 30px;
+   position: relative;
+   left: 450px;
+   padding: 10px;
+   border-radius: 5px;
+   font-size: 20px;
+   
+
+}
+
+
