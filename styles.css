@@ -24,6 +24,7 @@ body{
 }
 
 .card{
+    backdrop-filter: blur(5px);
     font-family:sans-serif;
     border: solid #fff 2px;
     padding: 30px;
